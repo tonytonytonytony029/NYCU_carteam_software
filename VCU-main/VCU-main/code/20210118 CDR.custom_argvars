@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iarUserArgVars>
+    <group name="TSAI" active="true">
+        <variable>
+            <name>osRoot</name>
+            <value>C:\Users\nctur\Documents\Soft&amp;Firmware\VCU\VCU related file\ChibiOS_17.6.2</value>
+        </variable>
+        <variable>
+            <name>extsource</name>
+            <value>C:\Users\nctur\Documents\Soft&amp;Firmware\VCU\VCU related file\external sources</value>
+        </variable>
+    </group>
+</iarUserArgVars>
